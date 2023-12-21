@@ -8,5 +8,6 @@ This is a simple CLI app in Node.js that calculates the square of a number.
 2. Navigate to the project directory.
 3. Run the following command:
 
+Firstly Check the permission
 ```bash
-./index.js
+ls -l
