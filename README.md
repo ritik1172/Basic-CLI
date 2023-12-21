@@ -11,3 +11,14 @@ This is a simple CLI app in Node.js that calculates the square of a number.
 Firstly Check the permission
 ```bash
 ls -l
+
+If there is executable permission then no need to change.
+
+If not then
+```bash
+chmod +x index.js
+
+Finally Run the command
+```bash
+./index.js
+
